@@ -1,3 +1,6 @@
 [submodule "private"]
 	path = private
 	url = git@github.com:mbdebian/private-repo-a.git
+[submodule "tfprivate"]
+	path = tfprivate
+	url = git@github.com:opentargets/terraform-google-opentargets-platform-private.git
